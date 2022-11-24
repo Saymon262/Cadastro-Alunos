@@ -10,7 +10,7 @@ São dois programas diferentes criados em Eclipse
   	-Código não modularizado
  	-Código com Menu de seleção numérica
   	-Código utiliza biblioteca JOptionPane
-  Código utiliza vetores e matrizez
+  	-Código utiliza vetores e matrizez
   
   É possível cadastrar novos alunos
   Exibir lista de alunos cadastrados
