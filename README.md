@@ -30,6 +30,7 @@ Cadastro de Alunos 02
   
   	PrincipalAluno:
     		Parte principal do código
+		
 			Menu de seleção
     			Cadastro de alunos
     			Listagem de alunos
@@ -44,6 +45,7 @@ Cadastro de Alunos 02
 	
 	Aluno:
  		Cadastro do aluno na array:
+		
       			String nome;
 			char sexo;
 			int idade;
