@@ -35,11 +35,11 @@ Cadastro de Alunos 02
     		Listagem de alunos
     		Listagem por média
     		Listagem por idade
-    Filtro por situação (Reprovado, aprovado e recuperação)
-    Busca por sexo
-    Busca por cidade
-    Busca excludente por cidade
-    Busca por nome
+    		Filtro por situação (Reprovado, aprovado e recuperação)
+    		Busca por sexo
+    		Busca por cidade
+    		Busca excludente por cidade
+    		Busca por nome
    
    Aluno:
     Cadastro do aluno na array:
