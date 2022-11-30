@@ -30,7 +30,7 @@ Cadastro de Alunos 02
   
   	PrincipalAluno:
     		Parte principal do código
-   		Menu de seleção
+		Menu de seleção
     		Cadastro de alunos
     		Listagem de alunos
     		Listagem por média
