@@ -30,8 +30,7 @@ Cadastro de Alunos 02
   
   	PrincipalAluno:
     		Parte principal do código
-		
-			Menu de seleção
+				Menu de seleção
     			Cadastro de alunos
     			Listagem de alunos
     			Listagem por média
@@ -45,13 +44,12 @@ Cadastro de Alunos 02
 	
 	Aluno:
  		Cadastro do aluno na array:
-		
-      			String nome;
+			String nome;
 			char sexo;
 			int idade;
 			double nota1;
 			double nota2;
 			double nota3;
-      			double media;
-      			String cidade;
-      			String situacao;
+      		double media;
+      		String cidade;
+      		String situacao;
