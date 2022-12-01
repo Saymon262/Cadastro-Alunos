@@ -12,7 +12,7 @@ São dois programas diferentes criados em Eclipse
   	-Código utiliza biblioteca JOptionPane
   	-Código utiliza vetores e matrizez
   
-  É possível cadastrar novos alunos
+ 	-É possível cadastrar novos alunos
   Exibir lista de alunos cadastrados
   Exibir percentual de alunos por sexo
   Exibir média das idades dos alunos
