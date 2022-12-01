@@ -15,7 +15,7 @@ São dois programas diferentes criados em Eclipse
  	-É possível cadastrar novos alunos
   	-Exibir lista de alunos cadastrados
   	-Exibir percentual de alunos por sexo
-  Exibir média das idades dos alunos
+  	-Exibir média das idades dos alunos
   Exibir lista de alunos por sexo
   Exibir lista de alunos por idade
   
