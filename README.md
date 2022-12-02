@@ -25,7 +25,7 @@ Cadastro de Alunos 02
 
  	 Código Modularizado
  	 Código com menu de seleção númerica
-  Código utiliza biblioteca JOptionPane
+  	Código utiliza biblioteca JOptionPane
   Código utiliza ArrayList
   
   	PrincipalAluno:
