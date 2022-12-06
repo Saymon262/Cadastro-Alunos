@@ -21,15 +21,15 @@ São dois programas diferentes criados em Eclipse
   
 -----------------------------------------------------------  
   
-Cadastro de Alunos 02
+	 Cadastro de Alunos 02
 
  	 Código Modularizado
  	 Código com menu de seleção númerica
   	 Código utiliza biblioteca JOptionPane
  	 Código utiliza ArrayList
   
-  	PrincipalAluno:
-    	Parte principal do código
+  	 PrincipalAluno:
+    	 Parte principal do código
 			Menu de seleção
     		Cadastro de alunos
     		Listagem de alunos
@@ -42,7 +42,7 @@ Cadastro de Alunos 02
     		Busca por nome
    
 	
-	Aluno:
+	 Aluno:
  		Cadastro do aluno na array:
 			String nome;
 			char sexo;
