@@ -23,23 +23,23 @@ São dois programas diferentes criados em Eclipse
   
 	 Cadastro de Alunos 02
 
- 	 Código Modularizado
- 	 Código com menu de seleção númerica
-  	 Código utiliza biblioteca JOptionPane
- 	 Código utiliza ArrayList
+ 	 -Código Modularizado
+ 	 -Código com menu de seleção númerica
+  	 -Código utiliza biblioteca JOptionPane
+ 	 -Código utiliza ArrayList
   
   	 PrincipalAluno:
     	 Parte principal do código
-			Menu de seleção
-    		Cadastro de alunos
-    		Listagem de alunos
-  			Listagem por média
-    		Listagem por idade
-    		Filtro por situação (Reprovado, aprovado e recuperação)
-    		Busca por sexo
-    		Busca por cidade
-    		Busca excludente por cidade
-    		Busca por nome
+	 	-Menu de seleção
+    		-Cadastro de alunos
+    		-Listagem de alunos
+		-Listagem por média
+    		-Listagem por idade
+    		-Filtro por situação (Reprovado, aprovado e recuperação)
+    		-Busca por sexo
+    		-Busca por cidade
+    		-Busca excludente por cidade
+    		-Busca por nome
    
 	
 	 Aluno:
