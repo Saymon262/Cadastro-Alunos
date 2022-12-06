@@ -28,18 +28,7 @@ São dois programas diferentes criados em Eclipse
   	 -Código utiliza biblioteca JOptionPane
  	 -Código utiliza ArrayList
   
-  	 PrincipalAluno:
-    	 Parte principal do código
-	 	-Menu de seleção
-    		-Cadastro de alunos
-    		-Listagem de alunos
-		-Listagem por média
-    		-Listagem por idade
-    		-Filtro por situação (Reprovado, aprovado e recuperação)
-    		-Busca por sexo
-    		-Busca por cidade
-    		-Busca excludente por cidade
-    		-Busca por nome
+  	 PrincipalAluno:-Menu de seleção-Cadastro de alunos-Listagem de alunos-Listagem por média-Listagem por idade-Filtro por situação (Reprovado, aprovado e recuperação)-Busca por sexo-Busca por cidade-Busca excludente por cidade-Busca por nome
    
 	
 	 Aluno:
